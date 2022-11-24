@@ -1,0 +1,1 @@
+print ("John Lennon once said, \"Life is what happens when you're busy making other plans.\"")
